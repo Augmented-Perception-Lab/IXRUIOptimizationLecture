@@ -2,7 +2,7 @@
 In-class examples for the IXR UI Optimization lecture.
 
 ## Setup
-1. Install [Gurobi](https://support.gurobi.com/hc/en-us/articles/14799677517585-Getting-Started-with-Gurobi-Optimizer).
+1. Install and set up [Gurobi](https://support.gurobi.com/hc/en-us/articles/14799677517585-Getting-Started-with-Gurobi-Optimizer).
 2. Clone the repository:
 ```
 git clone https://github.com/Augmented-Perception-Lab/IXRUIOptimizationLecture.git
