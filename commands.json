@@ -1,0 +1,35 @@
+[
+    {
+      "label": "Annual Report",
+      "frequency": 0.6
+    },
+    {
+      "label": "Camps/Clinics",
+      "frequency": 0.4
+    },
+    {
+      "label": "Cheerleading",
+      "frequency": 0.3
+    },
+    {
+      "label": "General News",
+      "frequency": 0.9
+    },
+    {
+      "label": "Green Practices",
+      "frequency": 0.2
+    },
+    {
+      "label": "Hall of Fame",
+      "frequency": 0.5
+    },
+    {
+      "label": "Hazing Prevention",
+      "frequency": 0.3
+    },
+    {
+      "label": "Inclusive Excellence",
+      "frequency": 0.4
+    }
+  ]
+  
